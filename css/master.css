@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css?family=Montserrat:100,100i,200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i');
+body{
+  background-color: black;
+}
+.view {
+  display: flex;
+  justify-content: space-between;
+  min-height: 70vh;
+  align-items: center;
+  background-image:url("images/fond.pdf");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: black;
+}
+
+img{
+  max-height: 6em;
+  padding: 20px;
+}
+
+.left-banc {
+
+}
+
+
+.right-banc {
+
+}
+
+.couple {
+
+  min-height: 4em;
+  display: flex;
+}
+.choices {
+    display: flex;
+justify-content: space-between;
+padding: 40px;
+    }
+  .choices img{
+    max-height: 5em;
+    }
+h1{
+  text-align: center;
+  font-weight: 700;
+  font-family: 'Montserrat';
+  color: white;
+  padding: 30px;
+  font-size: 1em;
+  display: flex;
+  vertical-align: bottom;
+  position: inherit;
+}
