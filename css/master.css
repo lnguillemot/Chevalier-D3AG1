@@ -4,7 +4,7 @@ body{
 }
 .view {
   display: flex;
-  justify-content: space-between;
+  justify-content: space-around;
   min-height: 70vh;
   align-items: center;
   background-image:url("images/fond.pdf");

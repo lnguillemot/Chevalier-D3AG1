@@ -40,11 +40,11 @@ h1{
   color: white;
   padding: 30px;
   font-size: 2em;
-  display: flex;
   vertical-align: bottom;
   position: inherit;
+
 }
 
-.choices{
-
+.choices a {
+ text-decoration: none;
 }
