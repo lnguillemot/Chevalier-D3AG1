@@ -4,10 +4,10 @@ body{
 }
 .view {
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
   min-height: 70vh;
   align-items: center;
-  background-image:url("images/fond.pdf");
+  background-image:url("images/fond.png");
   background-repeat: no-repeat;
   background-size: cover;
   background-color: black;
@@ -35,7 +35,7 @@ img{
 .choices {
     display: flex;
 justify-content: space-between;
-padding: 40px;
+padding: 0 40px;
     }
   .choices img{
     max-height: 5em;
