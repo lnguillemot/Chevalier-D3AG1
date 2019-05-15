@@ -68,3 +68,10 @@ h1{
   vertical-align: bottom;
   position: inherit;
 }
+.video video {
+  display: block;
+}
+.video {
+  display: flex;
+  justify-content: center;
+}
