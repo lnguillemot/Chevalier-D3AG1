@@ -69,10 +69,7 @@ h1{
   position: inherit;
 }
 
-.video {
+.video video {
   display: block;
-}
-.video {
-  display: flex;
   justify-content: center;
 }
